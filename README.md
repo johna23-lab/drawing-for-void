@@ -17,7 +17,7 @@ It should also be compatible with the *Pinephone* and *Librem 5*
 
 ### Default user interface (for GNOME/Budgie)
 
-![UI for GNOME and Budgie, here with the main menu opened](./docs/screenshots/1.0/gnome_menu.png)
+![UI for GNOME and Budgie, here with the main menu opened](https://raw.githubusercontent.com/maoschanz/drawing/master/docs/screenshots/1.0/gnome_menu.png)
 
 [More screenshots](https://maoschanz.github.io/drawing/gallery.html)
 
